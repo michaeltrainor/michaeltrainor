@@ -1,1 +1,1 @@
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mtrainor/)
+[![Linkedin Badge](https://img.shields.io/badge/-michaeltrainor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtrainor/)](https://www.linkedin.com/in/mtrainor/)
