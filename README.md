@@ -17,11 +17,12 @@ I'm Michael, a Content Pipeline Developer specializing in Python. I'm passionate
   "databases": ["MySQL", "PostgreSQL"],
   "tools": ["Git", "Docker", "Google Cloud"]
 }
-
+```
 🚀 Current Projects
 
-I'm currently learning Swift! 
+Swift: a basic 3D asset viewer using SwiftUI and Metal
+Python: an asset management database for digital content, with first class support for USD
 
 🤝 Let's Connect
 
-Feel free to connect with me on LinkedIn and Twitter. You can also check out my portfolio for more about my work and experience.
+Feel free to connect with me on LinkedIn and Twitter.
