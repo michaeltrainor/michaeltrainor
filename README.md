@@ -21,6 +21,7 @@ I'm Michael, a Content Pipeline Developer specializing in Python. I'm passionate
 🚀 Current Projects
 
 Swift: a basic 3D asset viewer using SwiftUI and Metal
+
 Python: an asset management database for digital content, with first class support for USD
 
 🤝 Let's Connect
