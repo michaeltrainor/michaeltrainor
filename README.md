@@ -1,4 +1,4 @@
-![Background Image](https://www.example.com/background.png)
+![Background Image](https://github.com/michaeltrainor/michaeltrainor/blob/608c602c37aae909286372dd9a02956f0150c99c/background.jpg)
 
 # Hello, World! 👋
 
