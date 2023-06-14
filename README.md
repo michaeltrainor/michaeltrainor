@@ -2,17 +2,26 @@
 
 # Hello, World! 👋
 
-I'm [Your Name], a Content Pipeline Developer specializing in Python. I'm passionate about optimizing the creation and flow of digital content to create amazing user experiences. Currently, I'm delving into the world of Swift to expand my skills and bring a fresh perspective to my projects.
+I'm Michael, a Content Pipeline Developer specializing in Python. I'm passionate about optimizing the creation and flow of digital content to create amazing user experiences. Currently, I'm delving into the world of Swift to expand my skills and bring a fresh perspective to my projects.
 
 ## 🧰 Toolbox
 
 ```yml
 {
-  "languages": ["Python", "Swift"],
+  "languages": ["Python", "Swift", "Go", "C++"],
   "frameworks": {
-    "Python": ["Django", "Flask", "Pandas", "Numpy"],
-    "Swift": ["UIKit", "SwiftUI"]
+    "Python": ["PySide", "Flask", "PyMEL", "Numpy", "bpy", "USD"],
+    "Swift": ["SwiftUI"],
+    "Go": ["Hugo", "Cobra"]
   },
   "databases": ["MySQL", "PostgreSQL"],
-  "tools": ["Git", "Docker", "Jenkins"]
+  "tools": ["Git", "Docker", "Google Cloud"]
 }
+
+🚀 Current Projects
+
+I'm currently learning Swift! 
+
+🤝 Let's Connect
+
+Feel free to connect with me on LinkedIn and Twitter. You can also check out my portfolio for more about my work and experience.
