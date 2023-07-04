@@ -9,7 +9,6 @@ My mission is to research and develop innovative solutions for cloud native cont
 <a href="https://www.linkedin.com/in/mtrainor"><img
         src="https://github.com/michaeltrainor/michaeltrainor/assets/914139/00cf9d00-5e83-46d7-ad73-fd9ae9520c47"
         width="32px" /></a>
-        
 <a href="https://twitter.com/haktwld"><img
         src="https://github.com/michaeltrainor/michaeltrainor/assets/914139/c724cea5-a4a9-4d99-9165-41b8889339e4"
         width="32px" /></a>
