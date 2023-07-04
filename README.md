@@ -1,29 +1,7 @@
 ![Background Image](https://github.com/michaeltrainor/michaeltrainor/blob/608c602c37aae909286372dd9a02956f0150c99c/background.jpg)
 
-# Hello, World! 👋
+With over 13 years of experience in game development and visual effects, my core competencies include technical art and animation, content pipelines, and tools development.
 
-I'm Michael, a Content Pipeline Developer specializing in Python. I'm passionate about optimizing the creation and flow of digital content to create amazing user experiences. Currently, I'm delving into the world of Swift to expand my skills and bring a fresh perspective to my projects.
-
-## 🧰 Toolbox
-
-```yml
-{
-  "languages": ["Python", "Swift", "Go", "C++"],
-  "frameworks": {
-    "Python": ["PySide", "Flask", "PyMEL", "Numpy", "bpy", "USD"],
-    "Swift": ["SwiftUI"],
-    "Go": ["Hugo", "Cobra"]
-  },
-  "databases": ["MySQL", "PostgreSQL"],
-  "tools": ["Git", "Docker", "Google Cloud"]
-}
-```
-🚀 Current Projects
-
-Swift: a basic 3D asset viewer using SwiftUI and Metal
-
-Python: an asset management database for digital content, with first class support for USD
-
-🤝 Let's Connect
+My mission is to research and develop innovative solutions for cloud native content pipelines, with concerns ranging from authoring source data, asset management, micro-service APIs, and consumer clients. I leverage my skills in Python, serverless computing and frameworks to design, develop, and maintain APIs, SDKs and tools for proprietary game engines and third party middleware. I also collaborate with multiple studio disciplines and departments to ensure the quality and efficiency of the content creation process. I am passionate about creating immersive and engaging experiences for gamers around the world.
 
 Feel free to connect with me on LinkedIn and Twitter.
