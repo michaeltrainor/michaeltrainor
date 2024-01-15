@@ -7,5 +7,5 @@ I enjoy working at the systems and application level, and spend my daylight hour
 
 <img src="https://github.com/michaeltrainor/michaeltrainor/assets/914139/d85ef842-a1fe-4333-a4a9-7b4fbe44caea)https://github.com/michaeltrainor/michaeltrainor/assets/914139/d85ef842-a1fe-4333-a4a9-7b4fbe44caea" alt="drawing" width="14"/> [LinkedIn](https://www.linkedin.com/in/mtrainor) - <img src="https://github.com/michaeltrainor/michaeltrainor/assets/914139/3892d99b-7590-4413-a5bd-7b01dffe933d)https://github.com/michaeltrainor/michaeltrainor/assets/914139/3892d99b-7590-4413-a5bd-7b01dffe933d" alt="drawing" width="14"/> [Twitter](https://twitter.com/haktwld)
 
-### My GPTs
+### GPTs
 [Rust Graphics Guru](https://chat.openai.com/g/g-VCVOCtxYA-rust-graphics-guru)
