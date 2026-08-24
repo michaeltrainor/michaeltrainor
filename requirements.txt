@@ -1,0 +1,5 @@
+# Local development / preview tooling for this GitHub profile README repository.
+# grip renders README.md locally exactly as GitHub does (GitHub Readme Instant Preview).
+#   Preview live:  grip README.md 0.0.0.0:6419
+#   Export HTML:   grip --export README.md out.html
+grip
