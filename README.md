@@ -2,54 +2,20 @@
 
 # mtd3v
 
-**Python Developer | 3D Pipeline Specialist**  
-Games + Feature Film VFX Background (Tech Artist / Animation TD)
+Principal Pipeline and Tools Technical Artist. Games and feature film VFX background (Tech Artist, Animation TD).
 
----
+I build pipelines and tools that help artists and studios ship: DCC integration, asset management, and production workflows, mostly in Python, with C++ and Rust where speed matters.
 
-### About
+### Working on
 
-Specializing in Python-based pipeline development for games and feature film production.  
+- [empty-qt](https://github.com/michaeltrainor/empty-qt): a PySide6 widget library
+- empty-editor: an OpenUSD-based content editor
+- AI-assisted tooling with Claude Code and Grok
 
-I build scalable systems for digital content creation workflows, DCC tool integration, and asset management that help studios ship faster.
+### Stack
 
----
+**Python** · PySide6 · OpenUSD · Maya · Houdini · Blender · FastAPI · C++ · Rust · Kubernetes · Kafka · Redis
 
-### Tech Stack
+### Elsewhere
 
-**Python (Expert Level)**  
-- Pipeline Automation  
-- DCC Tool Integration (Maya, Blender, Houdini)  
-- Plugin Development  
-- Asset Management & Metadata Orchestration  
-- Workflow Orchestration (Airflow, Jenkins)  
-- API Development (FastAPI)
-
-**Infrastructure**  
-- Container Orchestration: Kubernetes  
-- Databases: Memgraph, MongoDB  
-- Event-driven Systems: Kafka, Redis  
-- Backend Services for Production Pipelines
-
-**Currently Learning**  
-- C/C++ for performance-critical components  
-- Deeper DCC engine integration
-
----
-
-### Freelance
-
-**Open to Contracts**  
-
-Python development for 3D content pipelines and production workflows.
-
----
-
-### Connect
-
-- LinkedIn: [https://www.linkedin.com/in/mtrainor](https://www.linkedin.com/in/mtrainor)  
-- X: [https://x.com/mtd3v](https://x.com/mtd3v)
-
----
-
-Last updated: April 2026
+[LinkedIn](https://www.linkedin.com/in/mtrainor) · [X](https://x.com/mtd3v)
